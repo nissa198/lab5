@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">laboratoire 4</string>
+    <string name="custom_text_str">faux texte</string>
+    <string name="add">ajouter</string>
+    <string name="type_here">écrivez ici</string>
+    <string name="urgent">urgente</string>
+</resources>

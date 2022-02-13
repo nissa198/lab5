@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="custom_text_str">dummy text value</string>
+    <string name="add">add</string>
+    <string name="type_here">type here</string>
+    <string name="urgent">urgent</string>
+</resources>
